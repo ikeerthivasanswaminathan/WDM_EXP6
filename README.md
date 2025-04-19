@@ -1,4 +1,4 @@
-### EX6 Information Retrieval Using Vector Space Model in Python
+### EX - 06 Information Retrieval Using Vector Space Model in Python
 
 ### DATE: 19/04/2025
 
